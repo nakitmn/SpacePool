@@ -1,6 +1,6 @@
 # SpacePool
 🎮💡 Game
-
+# Gameplay video: https://youtu.be/GJvVRgJgHeo
 Control:
 WASD - Move
 Left mouse button - Fire from the 1st weapon
